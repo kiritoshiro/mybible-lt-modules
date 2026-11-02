@@ -1,6 +1,6 @@
-# Lietuviški MyBible moduliai
+# MyBible moduliai
 
-Lietuviškų Biblijų, komentarų ir kitų „MyBible“ modulių saugykla.
+Lietuviškų Biblijų, lietuviškų ir angliškų komentarų bei kitų „MyBible“ modulių saugykla.
 
 ## Įdiegimas per papildomą registrą
 
@@ -37,6 +37,20 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išna
 Iš [Biblijos archyvo](modules/bibles/Kvanto.zip) ir [išnašų archyvo](modules/commentaries/Kvanto.commentaries.zip) išskleiskite abu `.SQLite3` failus į „MyBible“ duomenų aplanką telefone. Iš naujo paleiskite programėlę.
 
 Jurėno vertimui naudokite [Jurėno Biblijos archyvą](modules/bibles/Jurenas.zip) ir [Jurėno išnašų archyvą](modules/commentaries/Jurenas.commentaries.zip).
+
+## Savarankiški komentarai
+
+| Modulis | Kalba | Apimtis | Atsisiuntimas |
+| --- | --- | --- | --- |
+| ABC | Anglų | Andrews Bible Commentary: Senasis ir Naujasis Testamentas, 66 knygos | [ABC.commentaries.zip](modules/commentaries/ABC.commentaries.zip) |
+| SDAIBC | Anglų | SDA International Bible Commentary: Pradžios knyga, J. Doukhan | [SDAIBC.commentaries.zip](modules/commentaries/SDAIBC.commentaries.zip) |
+| Skvireckas-K | Lietuvių | J. Skvirecko Naujojo Testamento komentarai | [Skvireckas-K.commentaries.zip](modules/commentaries/Skvireckas-K.commentaries.zip) |
+
+Tai savarankiški komentarų moduliai, kuriuos galima pasirinkti komentarų lange su skirtingais Biblijos vertimais. ABC ir SDAIBC ieškokite **angliškų komentarų**, o Skvireckas-K – **lietuviškų komentarų** sąraše. Jei anglų kalba paslėpta, pasirinkite visų kalbų rodymą ir išvalykite paieškos bei modulių būsenos filtrus.
+
+Archyvuose pateikti naudotojo perduoti moduliai, jų tekstas nekeistas. SQLite vientisumas ir archyvų atitikimas originalams patikrinti; tai nėra viso turinio ar kiekvienos nuorodos teisingumo patvirtinimas. OCR tekstuose gali būti atpažinimo klaidų; vietinėje SDAIBC turinio patikroje taip pat pažymėti priskyrimo ir teksto atskyrimo neatitikimai. Naudojimo teisių pastabos išsaugotos pačiuose moduliuose.
+
+Rankiniam įdiegimui iš komentarų archyvo išskleiskite `.commentaries.SQLite3` failą į „MyBible“ duomenų aplanką telefone ir iš naujo paleiskite programėlę. „Android“ taip pat galima naudoti failų programos **Open with → MyBible** veiksmą ZIP archyvui importuoti.
 
 ## Kitų modulių pridėjimas ir atnaujinimas
 
