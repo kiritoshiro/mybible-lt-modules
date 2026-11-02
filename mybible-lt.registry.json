@@ -4,12 +4,12 @@
   "description": "Lietuviški MyBible moduliai: Biblijos, komentarai ir kiti ištekliai",
   "modules": [
     {
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Kvanto.zip",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Kvanto.zip?v=d556dc30a817",
       "file_name": "Kvanto.zip",
       "language_code": "lt",
       "description": "Kvanto Biblija (ST ir NT). Išnašoms taip pat atsisiųskite Kvanto komentarų modulį.",
       "update_date": "2026-11-02",
-      "update_info": "2026-11-02: pirmoji versija. 66 knygos; skyrių santraukos pateiktos kaip antraštės."
+      "update_info": "2026-11-02 (2 leidimas): Pat 14,17 ir 15,23 pašalinti netinkami valdymo simboliai ir atkurti skliaustai.\n2026-11-02: pirmoji versija. 66 knygos; skyrių santraukos pateiktos kaip antraštės."
     },
     {
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Kvanto.commentaries.zip",
