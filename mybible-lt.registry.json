@@ -1,0 +1,23 @@
+{
+  "url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/mybible-lt.registry.json",
+  "file_name": "mybible-lt.registry.json",
+  "description": "Lietuviški MyBible moduliai: Biblijos, komentarai ir kiti ištekliai",
+  "modules": [
+    {
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Kvanto.zip",
+      "file_name": "Kvanto.zip",
+      "language_code": "lt",
+      "description": "Kvanto Biblija (ST ir NT). Išnašoms taip pat atsisiųskite Kvanto komentarų modulį.",
+      "update_date": "2026-11-02",
+      "update_info": "2026-11-02: pirmoji versija. 66 knygos; skyrių santraukos pateiktos kaip antraštės."
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Kvanto.commentaries.zip",
+      "file_name": "Kvanto.commentaries.zip",
+      "language_code": "lt",
+      "description": "Kvanto Biblija – išnašos ir kryžminės nuorodos. Naudojama kartu su Kvanto Biblijos moduliu.",
+      "update_date": "2026-11-02",
+      "update_info": "2026-11-02: pirmoji versija. 16 096 išnašos su kryžminėmis nuorodomis."
+    }
+  ]
+}
