@@ -58,6 +58,14 @@
       "description": "J. Skvirecko komentarai (Naujasis Testamentas, 1947)",
       "update_date": "2026-11-02",
       "update_info": "2026-11-02: pirmasis įkėlimas į šį registrą. 1175 komentarų įrašai. Pateikta darbinė versija; turinio patikra šiame įkėlime neatlikta."
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/SDABC.commentaries.zip",
+      "file_name": "SDABC.commentaries.zip",
+      "language_code": "en",
+      "description": "SDA Bible Commentary (Nichol)",
+      "update_date": "2026-11-02",
+      "update_info": "2026-11-02: pirmasis įkėlimas į šį registrą. 29993 komentarų įrašai, 66 knygos. Turinio patikra šiame įkėlime neatlikta."
     }
   ]
 }
