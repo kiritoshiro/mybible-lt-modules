@@ -23,9 +23,20 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Kvanto`, kad veiktų išna�
 
 Tekstas perkeltas iš „Kvanto ST.pdf“ ir „Kvanto NT.pdf“, išlaikant senąją rašybą. Eilučių numeracija kai kur skiriasi nuo kitų vertimų. Šaltinio ypatumai ir perkėlimo pataisos aprašyti pačiame Biblijos modulyje.
 
+## A. Jurėno vertimas
+
+Atsisiųskite **abu** modulius:
+
+- **A. Jurėno vertimas (ST ir NT)** – Biblijos tekstas ir antraštės.
+- **A. Jurėno vertimas – išnašos** – su tekstu susietos išnašos.
+
+Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išnašų sąsaja. Eilučių numeracija kai kur skiriasi nuo kitų vertimų. Moduliuose išsaugota pirminė naudojimo teisių informacija.
+
 ## Rankinis įdiegimas
 
 Iš [Biblijos archyvo](modules/bibles/Kvanto.zip) ir [išnašų archyvo](modules/commentaries/Kvanto.commentaries.zip) išskleiskite abu `.SQLite3` failus į „MyBible“ duomenų aplanką telefone. Iš naujo paleiskite programėlę.
+
+Jurėno vertimui naudokite [Jurėno Biblijos archyvą](modules/bibles/Jurenas.zip) ir [Jurėno išnašų archyvą](modules/commentaries/Jurenas.commentaries.zip).
 
 ## Kitų modulių pridėjimas ir atnaujinimas
 

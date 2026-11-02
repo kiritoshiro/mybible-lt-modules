@@ -18,6 +18,22 @@
       "description": "Kvanto Biblija – išnašos ir kryžminės nuorodos. Naudojama kartu su Kvanto Biblijos moduliu.",
       "update_date": "2026-11-02",
       "update_info": "2026-11-02: pirmoji versija. 16 096 išnašos su kryžminėmis nuorodomis."
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Jurenas.zip",
+      "file_name": "Jurenas.zip",
+      "language_code": "lt",
+      "description": "A. Jurėno vertimas (ST ir NT). Išnašoms taip pat atsisiųskite Jurėno išnašų modulį.",
+      "update_date": "2026-11-02",
+      "update_info": "2026-11-02: pirmoji versija. 66 knygos; 3 307 antraštės."
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Jurenas.commentaries.zip",
+      "file_name": "Jurenas.commentaries.zip",
+      "language_code": "lt",
+      "description": "A. Jurėno vertimas – išnašos. Naudojama kartu su Jurėno Biblijos moduliu.",
+      "update_date": "2026-11-02",
+      "update_info": "2026-11-02: pirmoji versija. 9 181 išnaša."
     }
   ]
 }
