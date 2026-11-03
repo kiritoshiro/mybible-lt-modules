@@ -4,20 +4,20 @@
   "description": "MyBible moduliai: lietuviškos Biblijos, lietuviški ir angliški komentarai",
   "modules": [
     {
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Kvanto.zip?v=023ab58b9d50",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Kvanto.zip?v=06d940b46847",
       "file_name": "Kvanto.zip",
       "language_code": "lt",
       "description": "Kvanto Biblija (1908)",
       "update_date": "2026-11-03",
-      "update_info": "2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03: „Apie“ pateikti leidimo, vertėjo ir tekstinių šaltinių duomenys; Biblijos tekstas ir išnašos nekeisti.\n2026-11-02 (2 leidimas): Pat 14,17 ir 15,23 pašalinti netinkami valdymo simboliai ir atkurti skliaustai.\n2026-11-02: pirmoji versija. 66 knygos; skyrių santraukos pateiktos kaip antraštės."
+      "update_info": "2026-11-03: Modulio informacija pateikta dabartine lietuvių kalba; Biblijos tekstas nepakeistas.\n2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03: „Apie“ pateikti leidimo, vertėjo ir tekstinių šaltinių duomenys; Biblijos tekstas ir išnašos nekeisti.\n2026-11-02 (2 leidimas): Pat 14,17 ir 15,23 pašalinti netinkami valdymo simboliai ir atkurti skliaustai.\n2026-11-02: pirmoji versija. 66 knygos; skyrių santraukos pateiktos kaip antraštės."
     },
     {
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Kvanto.commentaries.zip?v=5eeb7dfbe77e",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Kvanto.commentaries.zip?v=eb7aa2c5e3c1",
       "file_name": "Kvanto.commentaries.zip",
       "language_code": "lt",
       "description": "Kvanto Biblija (1908) – išnašos",
       "update_date": "2026-11-03",
-      "update_info": "2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03: „Apie“ pateikti leidimo, vertėjo ir tekstinių šaltinių duomenys; Biblijos tekstas ir išnašos nekeisti.\n2026-11-02: pirmoji versija. 16 096 išnašos su kryžminėmis nuorodomis."
+      "update_info": "2026-11-03: Modulio informacija pateikta dabartine lietuvių kalba; Biblijos tekstas nepakeistas.\n2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03: „Apie“ pateikti leidimo, vertėjo ir tekstinių šaltinių duomenys; Biblijos tekstas ir išnašos nekeisti.\n2026-11-02: pirmoji versija. 16 096 išnašos su kryžminėmis nuorodomis."
     },
     {
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Jurenas.zip?v=d6743621accd",

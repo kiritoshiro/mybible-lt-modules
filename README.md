@@ -21,7 +21,7 @@ Atsisiųskite **abu** modulius:
 
 Abiejų modulių pagrindinis pavadinimas turi likti `Kvanto`, kad veiktų išnašų sąsaja. Tai išnašų modulis, o ne savarankiškas aiškinamasis komentaras.
 
-1908 m., Berlynas — devintą kartą atspaustas leidimas. Abiejų modulių „Apie“ pirmiausia pateiktos leidimo datos, antroje vietoje — vertimo šaltiniai ir rankraščiai. Tai 1735 m. kolektyvinio vertimo tradicijos vėlesnis leidimas; pradinio vertimo šaltiniai — Liuterio vokiškoji Biblija ir Bretkūno lietuviškas rankraštis. Bibliografijoje 1908 m. redaktoriumi nurodomas Vilius Gaigalaitis. Išlaikyta istorinio leidimo kalba ir senoji rašyba; eilučių numeracija kai kur skiriasi nuo kitų vertimų. Perkėlimo patikros saugomos vietinėse ataskaitose.
+1908 m., Berlynas — devintasis spausdinimas. Modulio informacija pateikiama dabartine lietuvių kalba. Abiejų modulių „Apie“ pirmiausia pateiktos leidimo datos, antroje vietoje — vertimo šaltiniai ir rankraščiai. Tai 1735 m. kolektyvinio vertimo tradicijos vėlesnis leidimas; pradinio vertimo šaltiniai — Liuterio vokiškoji Biblija ir Bretkūno lietuviškas rankraštis. Bibliografijoje 1908 m. redaktoriumi nurodomas Vilius Gaigalaitis. Išlaikyta istorinio leidimo kalba ir senoji rašyba; eilučių numeracija kai kur skiriasi nuo kitų vertimų. Perkėlimo patikros saugomos vietinėse ataskaitose.
 
 ## Algirdo Jurėno vertimas (2000)
 
