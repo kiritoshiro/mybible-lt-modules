@@ -23,23 +23,23 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Kvanto`, kad veiktų išna�
 
 Modulyje pateikiamas Berlyno 1908 m. leidimas, tituliniame lape pažymėtas kaip devintą kartą atspaustas. Bibliografijoje jo redaktoriumi nurodomas Vilius Gaigalaitis. Modulio skiltyje „Apie“ pateikti leidimo, vertimo istorijos ir tekstinių šaltinių duomenys. Išlaikyta senoji rašyba; eilučių numeracija kai kur skiriasi nuo kitų vertimų. Perkėlimo patikros saugomos vietinėse ataskaitose.
 
-## A. Jurėno vertimas
+## Algirdo Jurėno vertimas (2000)
 
 Atsisiųskite **abu** modulius:
 
-- **A. Jurėno vertimas (ST ir NT)** – Biblijos tekstas ir antraštės.
-- **A. Jurėno vertimas – išnašos** – su tekstu susietos išnašos.
+- **Algirdo Jurėno vertimas (2000)** – Biblijos tekstas ir antraštės.
+- **Algirdo Jurėno vertimas (2000) – išnašos** – su tekstu susietos išnašos.
 
 Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išnašų sąsaja. Eilučių numeracija kai kur skiriasi nuo kitų vertimų. Moduliuose išsaugota pirminė naudojimo teisių informacija.
 
-Modulio skiltyje „Apie“ nurodyta, kad Senąjį Testamentą prof. dr. Algirdas Jurėnas vertė iš hebrajų ir aramėjų, Naująjį — iš graikų kalbos. Pateikta vertimo leidybos istorija (visas vertimas išleistas 2000 m.); konkreti pateikto teksto spaudos laida ir kritiniai originalo teksto leidimai neįvardyti, todėl jie nepriskiriami spėjant.
+2000 m. — pirmasis visos Biblijos vertimo leidimas (Duncanville: World Wide Printing). Modulio skiltis „Apie“ pradedama šia leidimo data, antroje vietoje pateikiami vertimo šaltiniai ir rankraščiai. Nurodyta, kad Senąjį Testamentą prof. dr. Algirdas Jurėnas vertė iš hebrajų ir aramėjų, Naująjį — iš graikų kalbos, ir pateikta ankstesnių leidimų istorija.
 
-## J. Skvirecko vertimas
+## Juozapo Skvirecko vertimas (1947, 1955–1958)
 
-- **Skvireckas** — Senasis ir Naujasis Testamentas, 73 knygos (46 ST ir 27 NT), įskaitant deuterokanonines knygas. [Biblijos archyvas](modules/bibles/Skvireckas.zip).
-- **Skvireckas-K** — vertėjo Senojo ir Naujojo Testamento komentarai, 12 599 įrašai. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
+- **Juozapo Skvirecko vertimas (1947, 1955–1958)** (`Skvireckas`) — visa Biblija, 73 knygos, įskaitant deuterokanonines knygas. [Biblijos archyvas](modules/bibles/Skvireckas.zip).
+- **Juozapo Skvirecko komentarai (1947, 1955–1958)** (`Skvireckas-K`) — 12 599 įrašai. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
 
-Vertė ir komentarus parašė Kauno arkivyskupas metropolitas Juozapas Jonas Skvireckas. Vertimo pagrindas — lotyniškoji Vulgata. Naudoti leidimai: ST II laida, Roma, I tomas 1955 m., II tomas 1958 m.; NT IV laida, Stuttgart: Lux, 1947. Bibliografiniai duomenys pateikti abiejų modulių skiltyje „Apie“.
+1947 m. — NT IV laida, Stuttgart: Lux; 1955 ir 1958 m. — ST II laidos I ir II tomai, Roma. Abiejų modulių „Apie“ pradedamas šiomis leidimų datomis, antroje vietoje pateikiami vertimo šaltiniai ir rankraščiai. Vertė ir komentarus parašė Kauno arkivyskupas metropolitas Juozapas Jonas Skvireckas. Vertimo pagrindas — lotyniškoji Vulgata.
 
 Paskelbti naudotojo pateikti atnaujinti failai, išsaugojus bibliografinius metaduomenis. Konvertavimo ataskaitoje aprašytos teksto ir eilučių numeracijos pataisos bei likusios OCR klaidos; visa turinio patikra šiame įkėlime nekartota. Komentarų lange pasirinkite **Skvireckas-K**.
 
