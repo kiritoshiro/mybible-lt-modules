@@ -38,8 +38,8 @@
     {
       "file_name": "Skvireckas.zip",
       "language_code": "lt",
-      "update_info": "2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03 (2 atnaujinimas): Naudotojo pateiktos teksto ir eilučių priskyrimo pataisos. 73 knygos, 35 803 eilutės, 406 antraštės, 37 knygų įvadai. Išsaugoti patikrinti bibliografiniai „Apie“ duomenys.\n2026-11-03: Įkelta naudotojo baigta ST ir NT versija: 73 knygos, 35 785 eilutės, 37 knygų įvadai. „Apie“ pateikta leidinių bibliografija. Teksto konvertavimo patikra šiame įkėlime nekartota.",
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Skvireckas.zip?v=8b14e373c928",
+      "update_info": "2026-11-03: Naujos naudotojo turinio pataisos: teksto ir komentarų atskyrimas, NT eilučių numeriai ir antraštės. 73 knygos, 35 814 eilučių, 417 antraščių, 37 knygų įvadai. Bibliografinis „Apie“ išsaugotas.\n2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03 (2 atnaujinimas): Naudotojo pateiktos teksto ir eilučių priskyrimo pataisos. 73 knygos, 35 803 eilutės, 406 antraštės, 37 knygų įvadai. Išsaugoti patikrinti bibliografiniai „Apie“ duomenys.\n2026-11-03: Įkelta naudotojo baigta ST ir NT versija: 73 knygos, 35 785 eilutės, 37 knygų įvadai. „Apie“ pateikta leidinių bibliografija. Teksto konvertavimo patikra šiame įkėlime nekartota.",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Skvireckas.zip?v=29853c936eb2",
       "description": "Juozapo Skvirecko vertimas (1947, 1955–1958)",
       "update_date": "2026-11-03"
     },
@@ -60,12 +60,12 @@
       "update_info": "2026-11-02: pirmasis įkėlimas į šį registrą. 926 komentarų įrašai. Pateikta darbinė versija; turinio patikra šiame įkėlime neatlikta."
     },
     {
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Skvireckas-K.commentaries.zip?v=f27c4bcc2a0b",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Skvireckas-K.commentaries.zip?v=51b23476571c",
       "file_name": "Skvireckas-K.commentaries.zip",
       "language_code": "lt",
       "description": "Juozapo Skvirecko komentarai (1947, 1955–1958)",
       "update_date": "2026-11-03",
-      "update_info": "2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03 (2 atnaujinimas): Naudotojo pateiktos teksto ir eilučių priskyrimo pataisos. 12 599 ST ir NT komentarų įrašai. Išsaugoti patikrinti bibliografiniai „Apie“ duomenys.\n2026-11-03: Pridėti Senojo Testamento komentarai; dabar ST ir NT, 12 540 įrašų. „Apie“ pateikta leidinių bibliografija.\n2026-11-02: pirmasis įkėlimas į šį registrą. 1175 komentarų įrašai. Pateikta darbinė versija; turinio patikra šiame įkėlime neatlikta."
+      "update_info": "2026-11-03: Naujos naudotojo turinio pataisos: teksto ir komentarų atskyrimas, NT eilučių numeriai ir antraštės. 12 650 komentarų įrašų. Bibliografinis „Apie“ išsaugotas.\n2026-11-03: Pavadinime pateiktos leidimų datos; „Apie“ pirmiausia datos, po jų vertimo šaltiniai ir rankraščiai. Tekstas nepakeistas.\n2026-11-03 (2 atnaujinimas): Naudotojo pateiktos teksto ir eilučių priskyrimo pataisos. 12 599 ST ir NT komentarų įrašai. Išsaugoti patikrinti bibliografiniai „Apie“ duomenys.\n2026-11-03: Pridėti Senojo Testamento komentarai; dabar ST ir NT, 12 540 įrašų. „Apie“ pateikta leidinių bibliografija.\n2026-11-02: pirmasis įkėlimas į šį registrą. 1175 komentarų įrašai. Pateikta darbinė versija; turinio patikra šiame įkėlime neatlikta."
     },
     {
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/SDABC.commentaries.zip",

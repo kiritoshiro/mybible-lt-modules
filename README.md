@@ -37,7 +37,7 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išna
 ## Juozapo Skvirecko vertimas (1947, 1955–1958)
 
 - **Juozapo Skvirecko vertimas (1947, 1955–1958)** (`Skvireckas`) — visa Biblija, 73 knygos, įskaitant deuterokanonines knygas. [Biblijos archyvas](modules/bibles/Skvireckas.zip).
-- **Juozapo Skvirecko komentarai (1947, 1955–1958)** (`Skvireckas-K`) — 12 599 įrašai. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
+- **Juozapo Skvirecko komentarai (1947, 1955–1958)** (`Skvireckas-K`) — 12 650 įrašų. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
 
 1947 m. — NT IV laida, Stuttgart: Lux; 1955 ir 1958 m. — ST II laidos I ir II tomai, Roma. Abiejų modulių „Apie“ pradedamas šiomis leidimų datomis, antroje vietoje pateikiami vertimo šaltiniai ir rankraščiai. Vertė ir komentarus parašė Kauno arkivyskupas metropolitas Juozapas Jonas Skvireckas. Vertimo pagrindas — lotyniškoji Vulgata.
 
