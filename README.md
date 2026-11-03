@@ -21,7 +21,7 @@ Atsisiųskite **abu** modulius:
 
 Abiejų modulių pagrindinis pavadinimas turi likti `Kvanto`, kad veiktų išnašų sąsaja. Tai išnašų modulis, o ne savarankiškas aiškinamasis komentaras.
 
-Tekstas perkeltas iš „Kvanto ST.pdf“ ir „Kvanto NT.pdf“, išlaikant senąją rašybą. Eilučių numeracija kai kur skiriasi nuo kitų vertimų. Šaltinio ypatumai ir perkėlimo pataisos aprašyti pačiame Biblijos modulyje.
+Modulyje pateikiamas Berlyno 1908 m. leidimas, tituliniame lape pažymėtas kaip devintą kartą atspaustas. Bibliografijoje jo redaktoriumi nurodomas Vilius Gaigalaitis. Modulio skiltyje „Apie“ pateikti leidimo, vertimo istorijos ir tekstinių šaltinių duomenys. Išlaikyta senoji rašyba; eilučių numeracija kai kur skiriasi nuo kitų vertimų. Perkėlimo patikros saugomos vietinėse ataskaitose.
 
 ## A. Jurėno vertimas
 
@@ -31,6 +31,8 @@ Atsisiųskite **abu** modulius:
 - **A. Jurėno vertimas – išnašos** – su tekstu susietos išnašos.
 
 Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išnašų sąsaja. Eilučių numeracija kai kur skiriasi nuo kitų vertimų. Moduliuose išsaugota pirminė naudojimo teisių informacija.
+
+Modulio skiltyje „Apie“ nurodyta, kad Senąjį Testamentą prof. dr. Algirdas Jurėnas vertė iš hebrajų ir aramėjų, Naująjį — iš graikų kalbos. Pateikta vertimo leidybos istorija (visas vertimas išleistas 2000 m.); konkreti pateikto teksto spaudos laida ir kritiniai originalo teksto leidimai neįvardyti, todėl jie nepriskiriami spėjant.
 
 ## Rankinis įdiegimas
 
