@@ -37,11 +37,11 @@ Modulio skiltyje „Apie“ nurodyta, kad Senąjį Testamentą prof. dr. Algirda
 ## J. Skvirecko vertimas
 
 - **Skvireckas** — Senasis ir Naujasis Testamentas, 73 knygos (46 ST ir 27 NT), įskaitant deuterokanonines knygas. [Biblijos archyvas](modules/bibles/Skvireckas.zip).
-- **Skvireckas-K** — vertėjo Senojo ir Naujojo Testamento komentarai, 12 540 įrašų. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
+- **Skvireckas-K** — vertėjo Senojo ir Naujojo Testamento komentarai, 12 599 įrašai. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
 
 Vertė ir komentarus parašė Kauno arkivyskupas metropolitas Juozapas Jonas Skvireckas. Vertimo pagrindas — lotyniškoji Vulgata. Naudoti leidimai: ST II laida, Roma, I tomas 1955 m., II tomas 1958 m.; NT IV laida, Stuttgart: Lux, 1947. Bibliografiniai duomenys pateikti abiejų modulių skiltyje „Apie“.
 
-Paskelbti naudotojo pateikti baigti failai, pakeitus tik jų bibliografinius metaduomenis. Konvertavimo ataskaitoje nurodytos pavienės atpažinimo klaidos ir ne visur atskirtos eilučių ribos; visa turinio patikra šiame įkėlime nekartota. Komentarų lange pasirinkite **Skvireckas-K**.
+Paskelbti naudotojo pateikti atnaujinti failai, išsaugojus bibliografinius metaduomenis. Konvertavimo ataskaitoje aprašytos teksto ir eilučių numeracijos pataisos bei likusios OCR klaidos; visa turinio patikra šiame įkėlime nekartota. Komentarų lange pasirinkite **Skvireckas-K**.
 
 ## Rankinis įdiegimas
 
