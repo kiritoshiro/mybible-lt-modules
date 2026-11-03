@@ -34,6 +34,15 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išna
 
 Modulio skiltyje „Apie“ nurodyta, kad Senąjį Testamentą prof. dr. Algirdas Jurėnas vertė iš hebrajų ir aramėjų, Naująjį — iš graikų kalbos. Pateikta vertimo leidybos istorija (visas vertimas išleistas 2000 m.); konkreti pateikto teksto spaudos laida ir kritiniai originalo teksto leidimai neįvardyti, todėl jie nepriskiriami spėjant.
 
+## J. Skvirecko vertimas
+
+- **Skvireckas** — Senasis ir Naujasis Testamentas, 73 knygos (46 ST ir 27 NT), įskaitant deuterokanonines knygas. [Biblijos archyvas](modules/bibles/Skvireckas.zip).
+- **Skvireckas-K** — vertėjo Senojo ir Naujojo Testamento komentarai, 12 540 įrašų. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
+
+Vertė ir komentarus parašė Kauno arkivyskupas metropolitas Juozapas Jonas Skvireckas. Vertimo pagrindas — lotyniškoji Vulgata. Naudoti leidimai: ST II laida, Roma, I tomas 1955 m., II tomas 1958 m.; NT IV laida, Stuttgart: Lux, 1947. Bibliografiniai duomenys pateikti abiejų modulių skiltyje „Apie“.
+
+Paskelbti naudotojo pateikti baigti failai, pakeitus tik jų bibliografinius metaduomenis. Konvertavimo ataskaitoje nurodytos pavienės atpažinimo klaidos ir ne visur atskirtos eilučių ribos; visa turinio patikra šiame įkėlime nekartota. Komentarų lange pasirinkite **Skvireckas-K**.
+
 ## Rankinis įdiegimas
 
 Iš [Biblijos archyvo](modules/bibles/Kvanto.zip) ir [išnašų archyvo](modules/commentaries/Kvanto.commentaries.zip) išskleiskite abu `.SQLite3` failus į „MyBible“ duomenų aplanką telefone. Iš naujo paleiskite programėlę.
@@ -47,7 +56,7 @@ Jurėno vertimui naudokite [Jurėno Biblijos archyvą](modules/bibles/Jurenas.zi
 | ABC | Anglų | Andrews Bible Commentary: Senasis ir Naujasis Testamentas, 66 knygos | [ABC.commentaries.zip](modules/commentaries/ABC.commentaries.zip) |
 | SDABC | Anglų | SDA Bible Commentary, red. F. D. Nichol: 66 knygos | [SDABC.commentaries.zip](modules/commentaries/SDABC.commentaries.zip) |
 | SDAIBC | Anglų | SDA International Bible Commentary: Pradžios knyga, J. Doukhan | [SDAIBC.commentaries.zip](modules/commentaries/SDAIBC.commentaries.zip) |
-| Skvireckas-K | Lietuvių | J. Skvirecko Naujojo Testamento komentarai | [Skvireckas-K.commentaries.zip](modules/commentaries/Skvireckas-K.commentaries.zip) |
+| Skvireckas-K | Lietuvių | J. Skvirecko Senojo ir Naujojo Testamento komentarai | [Skvireckas-K.commentaries.zip](modules/commentaries/Skvireckas-K.commentaries.zip) |
 
 Tai savarankiški komentarų moduliai, kuriuos galima pasirinkti komentarų lange su skirtingais Biblijos vertimais. ABC, SDABC ir SDAIBC ieškokite **angliškų komentarų**, o Skvireckas-K – **lietuviškų komentarų** sąraše. Jei anglų kalba paslėpta, pasirinkite visų kalbų rodymą ir išvalykite paieškos bei modulių būsenos filtrus.
 
