@@ -12,16 +12,16 @@ https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/mybible-lt
 
 Grįžkite į modulių sąrašą, pasirinkite lietuvių kalbą ir atsisiųskite norimus modulius. Nustatymuose galite įjungti automatinį modulių atnaujinimą.
 
-## Kvanto Biblija
+## Kvanto Biblija (1908)
 
 Atsisiųskite **abu** modulius:
 
-- **Kvanto Biblija (ST ir NT)** – Biblijos tekstas ir skyrių antraštės.
-- **Kvanto Biblija – išnašos ir kryžminės nuorodos** – su tekstu susietos išnašos.
+- **Kvanto Biblija (1908)** – Biblijos tekstas ir skyrių antraštės.
+- **Kvanto Biblija (1908) – išnašos** – su tekstu susietos išnašos ir kryžminės nuorodos.
 
 Abiejų modulių pagrindinis pavadinimas turi likti `Kvanto`, kad veiktų išnašų sąsaja. Tai išnašų modulis, o ne savarankiškas aiškinamasis komentaras.
 
-Modulyje pateikiamas Berlyno 1908 m. leidimas, tituliniame lape pažymėtas kaip devintą kartą atspaustas. Bibliografijoje jo redaktoriumi nurodomas Vilius Gaigalaitis. Modulio skiltyje „Apie“ pateikti leidimo, vertimo istorijos ir tekstinių šaltinių duomenys. Išlaikyta senoji rašyba; eilučių numeracija kai kur skiriasi nuo kitų vertimų. Perkėlimo patikros saugomos vietinėse ataskaitose.
+1908 m., Berlynas — devintą kartą atspaustas leidimas. Abiejų modulių „Apie“ pirmiausia pateiktos leidimo datos, antroje vietoje — vertimo šaltiniai ir rankraščiai. Tai 1735 m. kolektyvinio vertimo tradicijos vėlesnis leidimas; pradinio vertimo šaltiniai — Liuterio vokiškoji Biblija ir Bretkūno lietuviškas rankraštis. Bibliografijoje 1908 m. redaktoriumi nurodomas Vilius Gaigalaitis. Išlaikyta istorinio leidimo kalba ir senoji rašyba; eilučių numeracija kai kur skiriasi nuo kitų vertimų. Perkėlimo patikros saugomos vietinėse ataskaitose.
 
 ## Algirdo Jurėno vertimas (2000)
 
