@@ -37,11 +37,11 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išna
 ## Juozapo Skvirecko vertimas (1947, 1955–1958)
 
 - **Juozapo Skvirecko vertimas (1947, 1955–1958)** (`Skvireckas`) — visa Biblija, 73 knygos, įskaitant deuterokanonines knygas. [Biblijos archyvas](modules/bibles/Skvireckas.zip).
-- **Juozapo Skvirecko komentarai (1947, 1955–1958)** (`Skvireckas-K`) — 12 650 įrašų. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
+- **Juozapo Skvirecko komentarai (1947, 1955–1958)** (`Skvireckas-K`) — 12 651 įrašas. Ši versija pakeičia ankstesnį tik NT komentarų modulį. [Komentarų archyvas](modules/commentaries/Skvireckas-K.commentaries.zip).
 
 1947 m. — NT IV laida, Stuttgart: Lux; 1955 ir 1958 m. — ST II laidos I ir II tomai, Roma. Abiejų modulių „Apie“ pradedamas šiomis leidimų datomis, antroje vietoje pateikiami vertimo šaltiniai ir rankraščiai. Vertė ir komentarus parašė Kauno arkivyskupas metropolitas Juozapas Jonas Skvireckas. Vertimo pagrindas — lotyniškoji Vulgata.
 
-Paskelbti naudotojo pateikti atnaujinti failai, išsaugojus bibliografinius metaduomenis. Konvertavimo ataskaitoje aprašytos teksto ir eilučių numeracijos pataisos bei likusios OCR klaidos; visa turinio patikra šiame įkėlime nekartota. Komentarų lange pasirinkite **Skvireckas-K**.
+2026-11-08 abu moduliai patikrinti pagal skenuotą leidinį: ištaisytos teksto atpažinimo klaidos, paraščių nuorodų ir eilučių numerių likučiai, eilučių ribos ir antraštės (taip pat psalmių antraštės), komentarų pastabos priskirtos tinkamoms eilutėms. Senoviniai žodžių variantai palikti taip, kaip išspausdinti leidinyje. Tuščios eilutės paliktos ten, kur leidinys eilutės numerio nespausdina. Komentarų lange pasirinkite **Skvireckas-K**.
 
 ## Brolio Teofilio vertimas: Naujasis Testamentas (2023)
 
