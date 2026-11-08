@@ -7,7 +7,7 @@
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Kvanto.zip?v=06d940b46847",
       "file_name": "Kvanto.zip",
       "language_code": "lt",
-      "description": "1908 m. (vertimas 1735 m.) · J. J. Kvanto vertėjų grupė · iš Liuterio vokiškosios Biblijos ir Bretkūno rankraščio",
+      "description": "1908 m. (vertimas 1735 m.) · kolektyvinis vertimas, organizavo J. J. Kvantas · pradinis vertimas pagal Liuterio vokiškąją Bibliją, naudotas Bretkūno rankraštis",
       "update_date": "2026-11-03",
       "update_info": "2026-11-03: modulio informacija pateikta dabartine lietuvių kalba; Biblijos tekstas nepakeistas."
     },
@@ -15,7 +15,7 @@
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Kvanto.commentaries.zip?v=eb7aa2c5e3c1",
       "file_name": "Kvanto.commentaries.zip",
       "language_code": "lt",
-      "description": "1908 m. (vertimas 1735 m.) · J. J. Kvanto vertėjų grupė · iš Liuterio vokiškosios Biblijos ir Bretkūno rankraščio · išnašos",
+      "description": "1908 m. (vertimas 1735 m.) · kolektyvinis vertimas, organizavo J. J. Kvantas · pradinis vertimas pagal Liuterio vokiškąją Bibliją, naudotas Bretkūno rankraštis · išnašos",
       "update_date": "2026-11-03",
       "update_info": "2026-11-03: modulio informacija pateikta dabartine lietuvių kalba; išnašos nepakeistos."
     },
@@ -71,7 +71,7 @@
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Skvireckas-K.commentaries.zip?v=51b23476571c",
       "file_name": "Skvireckas-K.commentaries.zip",
       "language_code": "lt",
-      "description": "1947, 1955–1958 m. · Juozapas Jonas Skvireckas · iš lotyniškosios Vulgatos · komentarai",
+      "description": "1947, 1955–1958 m. · Juozapas Jonas Skvireckas · Vulgatos pagrindu verstos Biblijos komentarai",
       "update_date": "2026-11-03",
       "update_info": "2026-11-03: teksto ir komentarų atskyrimo pataisos; 12 650 komentarų įrašų."
     },
