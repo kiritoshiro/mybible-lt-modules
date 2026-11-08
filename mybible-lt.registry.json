@@ -44,6 +44,14 @@
       "update_date": "2026-11-03"
     },
     {
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Teofilis.zip?v=280126b320f6",
+      "file_name": "Teofilis.zip",
+      "language_code": "lt",
+      "description": "Brolio Teofilio vertimas: Naujasis Testamentas (2023)",
+      "update_date": "2026-11-08",
+      "update_info": "2026-11-08: pirmoji versija pagal 2023 m. trečiąjį, pataisytą leidimą. Naujasis Testamentas: 27 knygos, 7 957 eilutės; įvade – vertėjo žodis skaitytojui."
+    },
+    {
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/ABC.commentaries.zip",
       "file_name": "ABC.commentaries.zip",
       "language_code": "en",
