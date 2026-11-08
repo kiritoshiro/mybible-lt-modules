@@ -43,6 +43,12 @@ Abiejų modulių pagrindinis pavadinimas turi likti `Jurenas`, kad veiktų išna
 
 Paskelbti naudotojo pateikti atnaujinti failai, išsaugojus bibliografinius metaduomenis. Konvertavimo ataskaitoje aprašytos teksto ir eilučių numeracijos pataisos bei likusios OCR klaidos; visa turinio patikra šiame įkėlime nekartota. Komentarų lange pasirinkite **Skvireckas-K**.
 
+## Brolio Teofilio vertimas: Naujasis Testamentas (2023)
+
+- **Brolio Teofilio vertimas: Naujasis Testamentas (2023)** (`Teofilis`) — Naujasis Testamentas, 27 knygos, 7 957 eilutės. Modulio įvade pateiktas vertėjo žodis skaitytojui. [Biblijos archyvas](modules/bibles/Teofilis.zip).
+
+2023 m. — trečiasis, pataisytas leidimas, išleido Liutauras Leščinskas (ISBN 978-609-8322-08-8). Modulio „Apie“ pradedamas šia leidimo data, antroje vietoje nurodytas vertimo šaltinis — graikiškasis *Textus Receptus*, 1550 m. Stephanus leidimas. Eilučių numeracija atitinka šį tekstą (pvz., 3 Jn turi 14 eilučių), todėl kai kur skiriasi nuo kitų vertimų. Leidinys platinamas nemokamai.
+
 ## Rankinis įdiegimas
 
 Iš [Biblijos archyvo](modules/bibles/Kvanto.zip) ir [išnašų archyvo](modules/commentaries/Kvanto.commentaries.zip) išskleiskite abu `.SQLite3` failus į „MyBible“ duomenų aplanką telefone. Iš naujo paleiskite programėlę.
