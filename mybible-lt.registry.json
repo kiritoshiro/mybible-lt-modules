@@ -38,10 +38,10 @@
     {
       "file_name": "Skvireckas.zip",
       "language_code": "lt",
-      "update_info": "2026-11-03: teksto ir komentarų atskyrimo, NT eilučių numerių ir antraščių pataisos.",
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Skvireckas.zip?v=29853c936eb2",
+      "update_info": "2026-11-08: tekstas patikrintas pagal skenuotą leidinį – ištaisytos atpažinimo klaidos, eilučių ribos ir antraštės.",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Skvireckas.zip?v=ac82cdd27ba6",
       "description": "1947, 1955–1958 m. · Juozapas Jonas Skvireckas · iš lotyniškosios Vulgatos",
-      "update_date": "2026-11-03"
+      "update_date": "2026-11-08"
     },
     {
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/bibles/Teofilis.zip?v=c8d4abbc4c02",
@@ -68,12 +68,12 @@
       "update_info": "2026-11-02: pirmasis įkėlimas į šį registrą. 926 komentarų įrašai. Pateikta darbinė versija; turinio patikra šiame įkėlime neatlikta."
     },
     {
-      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Skvireckas-K.commentaries.zip?v=51b23476571c",
+      "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/Skvireckas-K.commentaries.zip?v=db2a0985ec32",
       "file_name": "Skvireckas-K.commentaries.zip",
       "language_code": "lt",
       "description": "1947, 1955–1958 m. · Juozapas Jonas Skvireckas · Vulgatos pagrindu verstos Biblijos komentarai",
-      "update_date": "2026-11-03",
-      "update_info": "2026-11-03: teksto ir komentarų atskyrimo pataisos; 12 650 komentarų įrašų."
+      "update_date": "2026-11-08",
+      "update_info": "2026-11-08: pastabos priskirtos tinkamoms eilutėms, ištaisytos atpažinimo klaidos; 12 651 komentarų įrašas."
     },
     {
       "download_url": "https://raw.githubusercontent.com/kiritoshiro/mybible-lt-modules/main/modules/commentaries/SDABC.commentaries.zip",
